@@ -1,3 +1,17 @@
+// use abstraction to hide the implementation details and show only functionality to the user.
+// In Dart, abstraction is achieved using abstract classes and methods. An abstract class is a class that cannot be instantiated, and it is used to define the structure of other classes.
+
+// Abstract class
+// Key Points To Remember
+// •	You can’t create an object of an abstract class.
+// •	It can have both abstract and non-abstract methods.
+// •	It is used to define the behavior of a class that other classes can inherit.
+// •	Abstract method only has a signature and no implementation.
+
+
+
+
+
 abstract class Bank {
   String name;
   double rate;
