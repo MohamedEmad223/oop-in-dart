@@ -29,3 +29,6 @@ void main() {
 
 
 // Super Keyword used to call the constructor of the parent class (superclass) from the constructor of the child class (subclass). 
+
+// What Is Super In Dart?
+// Super is used to refer to the parent class. It is used to call the parent class’s properties and methods.
